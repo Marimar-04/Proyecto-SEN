@@ -1,0 +1,12 @@
+Unión Eléctrica pronostica una afectación de 333 MW en el horario pico nocturno de este martes
+La Unión Eléctrica informa que en el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 17:20 horas de la tarde hasta las 19:03 horas, con un tiempo de afectación 01:43 minutos. La máxima afectación fue de 286 MW a las 18:10 horas, coincidiendo con el horario pico.
+
+La disponibilidad del SEN a las 07:00 horas de este martes es de 2300 MW y la demanda 2050 MW, con todo el sistema con servicio. No se estima afectación por déficit de capacidad de generación durante el horario diurno.
+
+Se encuentran fuera de servicio por avería la unidad 8 de la CTE Mariel, la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas, la unidad 3 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 5 de la CTE Mariel y la unidad 1 de la CTE Felton.
+
+Se mantienen las limitaciones en la generación térmica (270 MW), mientras que en la generación distribuida están indisponibles por avería 803 MW y en mantenimiento 130 MW.
+
+Para el pico se estima la entrada de 131 MW en la generación distribuida en motores que se encuentran en mantenimiento y se autoriza su uso, la entrada de la unidad 3 de la CTE Santa Cruz con 60 MW, la entrada de la unidad 8 de CTE Mariel con 60 MW (en proceso de arranque) y la entrada de 2 motores en la Generacion Móvil de Melones (36 MW).
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2587 MW y una demanda máxima de 2850 MW, para un déficit de 263 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 333 MW en este horario.

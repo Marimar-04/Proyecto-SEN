@@ -1,0 +1,44 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20231125",
+    "url": "http://www.cubadebate.cu/noticias/2023/11/25/une-se-preven-afectaciones-en-el-horario-pico-para-esta-jornada/", 
+    "prediction": {
+        "availability": 2768,  
+        "demand_max": 2800,
+        "impact": 102,
+        "deficit": 32,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2500, 
+        "demand": 1850, 
+        "deficit": 0
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "AM": ["3"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "MG": ["5"],
+                "EG": ["1"],
+                "LR": ["1"]
+            },
+            "limitation": 388
+    }
+],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 912,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 0.43,
+        "max": 111,
+        "max_hour": "18:10"
+    }
+}

@@ -1,0 +1,17 @@
+Unión Eléctrica no pronostica afectaciones por déficit de generación este domingo
+En el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 17:44 horas hasta las 18:43 horas de la tarde de hoy (59 minutos).
+
+La máxima afectación en el día fue de 115 MW a las 18:10 horas, coincidente con la hora pico.
+
+La disponibilidad del SEN a las 07:00 horas es de 2600 MW y la demanda 2000 MW, con todo el SEN con servicio.
+
+Se encuentra fuera de servicio por avería la unidad 1 de CTE Ernesto Guevara (Santa Cruz) y la unidad 2 de la CTE Lidio Ramón Pérez (Felton). En mantenimiento la unidad 5 de la CTE Máximo Gómez (Mariel) y la unidad 1 de la CTE Lidio Ramón Pérez (Felton).
+
+Se mantienen las limitaciones en la generación térmica (371 MW).
+En la generación distribuida, están indisponibles por avería 808 MW y en mantenimiento 123 MW.
+
+Se encuentran fuera de servicio por combustible 27 centrales en la generación distribuida con 158 MW. Hay 14 centrales con bajas coberturas (146 MW).
+
+Para el pico se estima La entrada de motores de la generación distribuida que están en espera de mantenimiento y se autoriza su uso con 131 MW, la entrada de la entrada de la unidad 1 de CTE Ernesto Guevara (Santa Cruz) con 60 MW y la entrada de generación que esta fuera por combustible con 50 MW.
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2841 MW y una demanda máxima de 2800 MW, para una reserva de 41 MW, por lo que de mantenerse las condiciones previstas no se pronostican afectaciones para el pico.

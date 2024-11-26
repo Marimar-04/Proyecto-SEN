@@ -1,0 +1,45 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20231122",
+    "url": "http://www.cubadebate.cu/noticias/2023/11/22/une-estima-afectacion-de-253-mw-en-horario-pico-de-este-miercoles/", 
+    "prediction": {
+        "availability": 2667,  
+        "demand_max": 2850,
+        "impact": 253,
+        "deficit": 183,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2380, 
+        "demand": 1950, 
+        "deficit": 0
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "EG": ["3"],
+                "AM": ["3", "5"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "MG": ["5"],
+                "EG": ["1"],
+                "LR": ["1"]
+            },
+            "limitation": 251
+    }
+],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 914,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 1.42,
+        "max": 170,
+        "max_hour": "18:10"
+    }
+}

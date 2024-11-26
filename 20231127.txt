@@ -1,0 +1,12 @@
+UNE no prevé afectaciones por déficit en horario diurno y estima afectación de 337 MW en pico este lunes
+En el día de ayer fue afectado el servicio por déficit de capacidad de generación desde las 17:18 horas de la tarde hasta las 18:39 horas (tiempo de afectación, una hora y 21 minutos). La máxima afectación fue de 154 MW a las 18:00 horas, coincidente con la hora pico.
+
+Este lunes, la disponibilidad del SEN a las 07:00 horas era de 2 450 MW y la demanda, de 2 040 MW, con todo el sistema con servicio. No se espera afectación por déficit de capacidad de generación durante el horario diurno.
+
+Están fuera de servicio por avería la unidad 3 de la CTE Santa Cruz, la unidad 5 de la CTE Nuevitas, la unidad 3 de la CTE Rente y la unidad 2 de la CTE Felton. En mantenimiento, la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz y la unidad 1 de la CTE Felton.
+
+Se mantienen las limitaciones en la generación térmica (243 MW). En la generación distribuida, no están disponibles por avería 809 MW y en mantenimiento, 129 MW.
+
+Para el pico se prevé la entrada de 147 MW en la generación distribuida en motores que están en mantenimiento y se autoriza su uso, y de dos motores en la generación móvil de Melones (36 MW).
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2 633 MW y una demanda máxima de 2 900 MW, para una déficit de 267 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 337 MW en ese horario.

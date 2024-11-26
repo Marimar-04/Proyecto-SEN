@@ -1,0 +1,44 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20231126",
+    "url": "http://www.cubadebate.cu/noticias/2023/11/26/une-no-pronostica-afectaciones-al-servicio-por-deficit-de-generacion-este-domingo/", 
+    "prediction": {
+        "availability": 2795,  
+        "demand_max": 2750,
+        "impact": 0,
+        "deficit": 0,
+        "backup": 45
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2510, 
+        "demand": 1900, 
+        "deficit": 0
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "AM": ["3"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "MG": ["5", "8"],
+                "EG": ["1"],
+                "LR": ["1"]
+            },
+            "limitation": 278
+    }
+],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 925,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 0,
+        "max": 0,
+        "max_hour": null
+    }
+}

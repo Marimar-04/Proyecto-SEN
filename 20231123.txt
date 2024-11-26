@@ -1,0 +1,15 @@
+Unión Eléctrica estima afectación de 269 MW en horario pico de este jueves
+La Unión Eléctrica informa que en el día de ayer se afectó el servicio por déficit de capacidad de generación desde las 17:27 horas de la tarde hasta las 18:58 horas (tiempo de afectación 01:31 horas).
+
+La máxima afectación fue de 176 MW, a las 18:20 horas coincidente con la hora pico.
+
+La disponibilidad del SEN a las 07:00 horas es de 2300 MW y la demanda 1970 MW, con todo el sistema con servicio. No se estima afectación por déficit de capacidad de generación durante el horario diurno.
+
+Se encuentran fuera de servicio por avería las unidades 2 y 3 de la CTE Santa Cruz, las unidades 3 y 5 de la CTE Rente y la unidad 2 de la CTE Felton. Se encuentra en mantenimiento la unidad 5 de la CTE Mariel, la unidad 1 de la CTE Santa Cruz y la unidad 1 de la CTE Felton.
+
+Se mantienen las limitaciones en la generación térmica (226 MW).
+En la generación distribuida, están indisponibles por avería 778 MW y en mantenimiento 129 MW.
+
+Para el pico se estima la entrada de 141 MW en la generación distribuida en motores que se encuentran en mantenimiento y se autoriza su uso, la entrada de las unidades 2 y 3 de la CTE Santa Cruz (130 MW), la entrada de la unidad de Energas Puerto Escondido con 20 MW y la entrada de 4 motores en la Generacion Móvil de Melones (60 MW).
+
+Con este pronóstico, se estima para la hora pico una disponibilidad de 2651 MW y una demanda máxima de 2850 MW, para un déficit de 199 MW, por lo que de mantenerse las condiciones previstas se pronostica una afectación de 269 MW en este horario.

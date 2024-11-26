@@ -1,0 +1,43 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20231203",
+    "url": "http://www.cubadebate.cu/noticias/2023/12/03/union-electrica-no-pronostica-afectaciones-por-deficit-de-generacion-este-domingo-2/", 
+    "prediction": {
+        "availability": 2841,  
+        "demand_max": 2800,
+        "impact": 0,
+        "deficit": 0,
+        "backup": 41
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2600, 
+        "demand": 2000, 
+        "deficit": 0
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "EG": ["1"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "MG": ["5"],
+                "LR": ["1"]
+            },
+            "limitation": 371
+    }
+],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 1235,
+        "combustible_problem": 27,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 0.59,
+        "max": 115,
+        "max_hour": "18:10"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "zones_with_problems": [null], 
+    "date": "20231124",
+    "url": "http://www.cubadebate.cu/noticias/2023/11/24/union-electrica-estima-una-afectacion-de-213-mw-en-el-horario-pico-nocturno-de-este-viernes/", 
+    "prediction": {
+        "availability": 2707,  
+        "demand_max": 2850,
+        "impact": 213,
+        "deficit": 143,
+        "backup": 0
+    },
+    "morning_info": {
+        "time": "0700", 
+        "availability": 2420, 
+        "demand": 2000, 
+        "deficit": 0
+    }, 
+    "plants": [
+        {
+            "broken": {
+                "AM": ["3", "5"],
+                "LR": ["2"]
+            },
+            "maintenance": {
+                "MG": ["5"],
+                "EG": ["1"],
+                "LR": ["1"]
+            },
+            "limitation": 377
+    }
+],
+    "distributed": {
+        "motors_with_problems": null,
+        "total_impact": 938,
+        "combustible_problem": null,
+        "ships_with_problems": null,
+        "motors_impact": null
+    },
+    "impact": {
+        "total_hours": 2.35,
+        "max": 263,
+        "max_hour": "18:10"
+    }
+}
